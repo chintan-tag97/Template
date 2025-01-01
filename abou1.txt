@@ -1,0 +1,10 @@
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>About  </h1> 
+</head>
+<body background="C:\Users\Lenovo\OneDrive\Desktop\TAG97\images\img2.jpg">
+<a href="file:///C:/Users/Lenovo/OneDrive/Desktop/TAG97/Website/page1.html#">Home</a>
+</body>
+</html>
